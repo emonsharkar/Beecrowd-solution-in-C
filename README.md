@@ -1,6 +1,6 @@
 # Beecrowd-solution-in-C
 
-These code are solely done by Md. Emon Sharkar.
+These codes are solely done by Md. Emon Sharkar.
 
 Facebook: https://www.facebook.com/tenth.january.emon
 LinkedIn: https://www.linked.com/in/emonsharkar
