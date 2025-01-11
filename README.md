@@ -2,8 +2,6 @@
 
 These codes are solely done by Md. Emon Sharkar.
 
-Facebook: https://www.facebook.com/tenth.january.emon
-LinkedIn: https://www.linked.com/in/emonsharkar
-Web: https://emonsharkar.com
+Mail me: emon15-3141@diu.edu.bd
 
 Run the codes as per the compiler or interpreter.
